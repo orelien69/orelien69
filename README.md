@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aurélien Rieu</h1>
-<h3 align="center">BTS SIO SLAM </h3>
-<h3 align="center">I want to become a flutter mobile developer</h3>
-<h3 align="center">YO 19</h3>
+<h3 align="center">🎓 L3 RPI – Réseaux et Projets Informatiques</h3>
+<h3 align="center">💼 Microsoft Consultant – SharePoint & M365 Expert</h3>
+<h3 align="center">🧑‍💻 20 years old | Passionate about tech & innovation</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
